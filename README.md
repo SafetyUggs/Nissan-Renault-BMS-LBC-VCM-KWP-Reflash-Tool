@@ -5,7 +5,7 @@ VCM reflashing (ZE0). Tested in car and on the bench.
 
 KWP reflashing tested on ZE0 and AZE0. It should work on Renault too, bench tested but untested in the vehicle.
 
-SOH / EEPROM Reset tested on ZE0 and AZE0. Renault not yet supported. ZE1 reset is currently being tested but not yet supported.
+SOH / EEPROM Reset tested on ZE0 and AZE0. Renault not yet supported. ZE1 reset is supported on v1.15!
 
 This app can reflah your AZE0 with Custom CATL battery upgrade firmware. Contact me to purchase a custom firmware for your AZE0.
 
